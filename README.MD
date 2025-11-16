@@ -1,4 +1,4 @@
 <h1>Application qui permet de gérer des relevés de comptes bancaires</h1>
-<img src="captures/1.PNG">
+<img src="https://raw.githubusercontent.com/M0iem/App_relev-s/main/captures/1.png">
 <hr/>   
-<img src="captures/2.PNG">
+<img src="https://raw.githubusercontent.com/M0iem/App_relev-s/main/captures/2.png">
